@@ -14,9 +14,9 @@ from datetime import datetime
 
 
 # === CONFIG ===
-TOKEN = "8152873792:AAFB95vnOJTuB7OS6Tt7ya0BN84Bheqa79A"
-ADMIN_CHAT_ID = 7965809551  # <-- Replace with your Telegram ID (@userinfobot)
-CHANNEL_INVITE_LINK = "https://t.me/+dyri4OLj8VNhOTBk"
+TOKEN = 
+ADMIN_CHAT_ID = # <-- Replace with your Telegram ID (@userinfobot)
+CHANNEL_INVITE_LINK = 
 
 # === Load questions from JSON ===
 def load_questions():
